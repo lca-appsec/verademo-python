@@ -1,8 +1,6 @@
 # VeraDemo - Blab-a-Gag (Django-Python) - AppSec
 # 18-08-2026
 
-pip install mysql-connector-python==9.0.6 --index-url https://:av0_HuJLdR6kNcBFL8ORwY5AQcaVrAuoAh7VwS2uyElhQqF@pypi.firewall.veracode.com/simple/ --trusted-host
-
 ### Notice
 
 This project is intentionally vulnerable! It contains known vulnerabilities and security errors in its code and is meant as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilities in this project; the odds are they’re there on purpose :) .
